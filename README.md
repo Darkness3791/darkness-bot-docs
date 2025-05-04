@@ -22,7 +22,7 @@ Darkness collects only the minimal data required to function properly, including
 Collected data is used **exclusively** for bot functionality, including:
 
 - Handling user commands in direct messages or shared servers.
-- Ensuring compliance with [Discord's Developer Policies](https://discord.com/developers/docs/policies-and-agreements).
+- Ensuring compliance with [Discord's Developer Policies](https://support-dev.discord.com/hc/en-us/articles/8563934450327-Discord-Developer-Policy).
 
 Darkness does not analyze data for profiling or advertising purposes.
 
